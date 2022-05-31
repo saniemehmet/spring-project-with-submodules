@@ -57,5 +57,6 @@
 	<packaging>pom</packaging>
 	<modules>
 		<module>first-submodule</module>
+		<module>second-submodule</module>
 	</modules>
 </project>
