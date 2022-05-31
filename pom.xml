@@ -55,4 +55,8 @@
 		</plugins>
 	</build>
 
+	<packaging>pom</packaging>
+	<modules>
+		<module>first-submodule</module>
+	</modules>
 </project>
