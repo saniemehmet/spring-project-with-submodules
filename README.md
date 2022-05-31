@@ -1,0 +1,1 @@
+# spring-project-with-submodules [![Build Status]([https://travis-ci.org/azu/travis-badge.svg?branch=master](https://app.travis-ci.com/saniemehmet/spring-project-with-submodules.svg?branch=master))]([https://travis-ci.org/azu/travis-badge](https://app.travis-ci.com/saniemehmet/spring-project-with-submodules))
