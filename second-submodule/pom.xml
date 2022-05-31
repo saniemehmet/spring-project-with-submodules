@@ -6,11 +6,4 @@
 		<version>0.0.1-SNAPSHOT</version>
 	</parent>
 	<artifactId>second-submodule</artifactId>
-	<dependencies>
-		<dependency>
-			<groupId>uni.fmi.st</groupId>
-			<artifactId>first-submodule</artifactId>
-			<version>${project.version}</version>
-		</dependency>
-	</dependencies>
 </project>
