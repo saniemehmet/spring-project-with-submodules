@@ -54,7 +54,6 @@
 			</plugin>
 		</plugins>
 	</build>
-
 	<packaging>pom</packaging>
 	<modules>
 		<module>first-submodule</module>
